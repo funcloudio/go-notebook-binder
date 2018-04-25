@@ -1,1 +1,1 @@
-FROM funcloudio/go:813666cc87a1
+FROM funcloudio/go:441890765e78
